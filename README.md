@@ -73,9 +73,4 @@ src/main/java/com/indian_news_aggregator/News/
 - `link` - E-paper website link
 - `category` - E-paper category
 
-## Setup Instructions
 
-1. **Database Setup**
-   ```sql
-   -- Run the news_sources_data.sql script in MySQL
-   mysql -u root -p < news_sources_data.sql
